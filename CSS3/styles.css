@@ -10,10 +10,10 @@
     /*variaveis*/
     
     :root {
-        --main-color: #7bbd3d;
+        --main-color: #dacc10f5;
         --main-text-color: #FFF;
-        --border-color: #999;
-        --bio-bg-color: #1e2e42;
+        --border-color: #686565;
+        --bio-bg-color: #147936;
         --bio-border-color: #ad880b;
         --about-bg-color: #4e0748;
     }
